@@ -16,5 +16,35 @@ namespace SuperAdventure
     {
       InitializeComponent();
     }
+
+    private void label2_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void label3_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void label4_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void lblHitPoints_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void SuperAdventure_Load(object sender, EventArgs e)
+    {
+
+    }
+
+    private void btnTest_Click(object sender, EventArgs e)
+    {
+      lblGold.Text = "123";
+    }
   }
 }
